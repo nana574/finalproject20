@@ -1,2 +1,1 @@
-# finalproject
-data
+# residual_strategy
